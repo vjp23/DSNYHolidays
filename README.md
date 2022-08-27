@@ -26,3 +26,6 @@ print(holiday_name)
 https://dsnyfamily.com/dsny-holidays/
 
 https://www1.nyc.gov/assets/dsny/site/services/waste-page/holiday-schedule
+
+### TODO
+1. Add a function to return the next pickup date that is NOT a holiday following a specified pickup date, given a pickup schedule and a collection type (refuse vs recycling vs, if possible, organics)
